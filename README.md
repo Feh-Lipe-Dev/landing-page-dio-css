@@ -7,7 +7,7 @@ Construir uma Landing Page com HTML e CSS, colocando em prática os fundamentos 
 ## 🖼️ O Projeto
 O projeto é apresentado já com o protótipo do Figma pronto, o que deixa a experiência ainda mais próxima da realidade do desenvolvimento web. Tudo foi estilizado conforme o protótipo.
 
-O protótipo exige detalhes que muitos cursos não se apegam, mas que fazem diferença no produto final. Propriedades como text-shadow, line-height, letter-spacing, não passam despecibidos pela Tech Lead Michele.
+O protótipo exige detalhes que muitos cursos não se apegam, mas que fazem diferença no produto final. Propriedades como text-shadow, line-height, letter-spacing, não passam despercibidos pela Tech Lead Michele.
 Outra boa prática implantada foi a do 'CSS reset', aplicada em uma folha separada da principal.
 
 ## 🏁 Considerações finais
